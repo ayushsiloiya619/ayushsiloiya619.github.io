@@ -67,6 +67,11 @@ nav ul li a:hover::after{
 .header-text span{
     color: #cd0f4b;
 }
+.cont1{
+    width: 100px;
+    height: 100vh;
+    color: #fff;
+}
 /*--------------------About--------------------*/
 #about{
     padding: 80px 0;
@@ -313,6 +318,18 @@ form .btn2{
 .copyright i{
     color: #cd0f4b;
 }
+/*-------------------------Custom_scroll------------------------------*/
+::-webkit-scrollbar{
+    width: 15px;
+}
+::-webkit-scrollbar-track{
+    background: #d1e5ff;
+}
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(#642bff,#ff22e6);
+    border-radius: 10px;
+}
+
 /*-------------------------responsive map-----------------------------*/
 iframe{
     width: 100%;
