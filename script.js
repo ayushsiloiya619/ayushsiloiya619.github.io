@@ -1,6 +1,5 @@
 /* ==========================================================
-   AYUSH SILOIYA — PREMIUM PORTFOLIO JS (2025)
-   Particle Engine • Preloader • Tilt • GSAP • Typed
+   AYUSH SILOIYA PORTFOLIO
 ========================================================== */
 
 /* ==========================================================
@@ -106,7 +105,7 @@ document.querySelectorAll(".tilt").forEach((card) => {
 });
 
 /* ==========================================================
-   PARTICLE ENGINE (BUILT-IN, SMOOTH, PREMIUM)
+   PARTICLE ENGINE
 ========================================================== */
 
 const canvas = document.getElementById("particle-canvas");
